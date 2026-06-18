@@ -1,5 +1,7 @@
 import os
 
+lambda-package
+
 gitignore_content = """# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
